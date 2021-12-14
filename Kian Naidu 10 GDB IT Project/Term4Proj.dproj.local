@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/10/26 14:25:05.498.pas,C:\Users\KIAN\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\KIAN\Desktop\Kian Naidu 10 GDB IT Project\DMUnit.pas</Transaction>
+    <Transaction>2017/10/26 14:25:05.498.dfm,C:\Users\KIAN\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\KIAN\Desktop\Kian Naidu 10 GDB IT Project\DMUnit.dfm</Transaction>
+    <Transaction>2017/10/26 14:25:52.158.pas,C:\Users\KIAN\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\KIAN\Desktop\Kian Naidu 10 GDB IT Project\SweetsProj.pas</Transaction>
+    <Transaction>2017/10/26 14:25:52.158.dfm,C:\Users\KIAN\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\KIAN\Desktop\Kian Naidu 10 GDB IT Project\SweetsProj.dfm</Transaction>
+    <Transaction>2017/10/26 14:26:18.974.dproj,C:\Users\KIAN\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\KIAN\Desktop\Kian Naidu 10 GDB IT Project\Term4Proj.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
