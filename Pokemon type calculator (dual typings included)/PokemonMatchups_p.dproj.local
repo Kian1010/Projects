@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/05/29 21:58:15.035.pas,C:\Users\KIAN\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\KIAN\Documents\RAD Studio\Projects\PokemonMatchups_u.pas</Transaction>
+    <Transaction>2018/05/29 21:58:15.043.dfm,C:\Users\KIAN\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\KIAN\Documents\RAD Studio\Projects\PokemonMatchups_u.dfm</Transaction>
+    <Transaction>2018/05/29 21:58:22.955.dproj,C:\Users\KIAN\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\KIAN\Documents\RAD Studio\Projects\PokemonMatchups_p.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
