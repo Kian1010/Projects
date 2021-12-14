@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/05/12 19:25:19.637.pas,C:\Users\KIAN\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\KIAN\Documents\RAD Studio\Projects\NamingGame_u.pas</Transaction>
+    <Transaction>2018/05/12 19:25:19.637.dfm,C:\Users\KIAN\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\KIAN\Documents\RAD Studio\Projects\NamingGame_u.dfm</Transaction>
+    <Transaction>2018/05/12 19:25:26.868.dproj,C:\Users\KIAN\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\KIAN\Documents\RAD Studio\Projects\NamingGame_p.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
