@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/09/04 14:17:39.387.pas,C:\Users\I11\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\I11\Desktop\Phase 3\Collectibles.pas</Transaction>
+    <Transaction>2018/09/04 14:17:39.387.dfm,C:\Users\I11\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\I11\Desktop\Phase 3\Collectibles.dfm</Transaction>
+    <Transaction>2018/09/04 14:17:46.895.dproj,C:\Users\I11\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\I11\Desktop\Phase 3\Collectibles_p.dproj</Transaction>
+    <Transaction>2018/09/07 11:02:14.247.pas,C:\Users\I11\Desktop\Phase 3\Collectibles.pas=C:\Users\I11\Desktop\Phase 3\Login.pas</Transaction>
+    <Transaction>2018/09/07 11:02:14.247.dfm,C:\Users\I11\Desktop\Phase 3\Collectibles.dfm=C:\Users\I11\Desktop\Phase 3\Login.dfm</Transaction>
+    <Transaction>2018/09/07 11:02:20.569.pas,C:\Users\I11\Desktop\Phase 3\Unit2.pas=C:\Users\I11\Desktop\Phase 3\Register.pas</Transaction>
+    <Transaction>2018/09/07 11:02:20.569.dfm,C:\Users\I11\Desktop\Phase 3\Unit2.dfm=C:\Users\I11\Desktop\Phase 3\Register.dfm</Transaction>
+    <Transaction>2018/09/09 12:15:45.324.pas,C:\Users\KIAN\Desktop\Phase 3\Login.pas=C:\Users\KIAN\Desktop\Phase 3\Login_U.pas</Transaction>
+    <Transaction>2018/09/09 12:15:45.324.dfm,C:\Users\KIAN\Desktop\Phase 3\Login.dfm=C:\Users\KIAN\Desktop\Phase 3\Login_U.dfm</Transaction>
+    <Transaction>2018/09/09 12:15:53.902.pas,C:\Users\KIAN\Desktop\Phase 3\Register.pas=C:\Users\KIAN\Desktop\Phase 3\Register_U.pas</Transaction>
+    <Transaction>2018/09/09 12:15:53.902.dfm,C:\Users\KIAN\Desktop\Phase 3\Register.dfm=C:\Users\KIAN\Desktop\Phase 3\Register_U.dfm</Transaction>
+    <Transaction>2018/09/09 18:18:30.166.pas,C:\Users\KIAN\Desktop\Phase 3\Unit1.pas=C:\Users\KIAN\Desktop\Phase 3\MainPage_U.pas</Transaction>
+    <Transaction>2018/09/09 18:18:30.179.dfm,C:\Users\KIAN\Desktop\Phase 3\Unit1.dfm=C:\Users\KIAN\Desktop\Phase 3\MainPage_U.dfm</Transaction>
+    <Transaction>2018/10/04 15:30:36.429.pas,C:\Users\KIAN\Desktop\Phase 3\Unit1.pas=C:\Users\KIAN\Desktop\Phase 3\Connection_P.pas</Transaction>
+    <Transaction>2018/10/04 15:30:36.429.dfm,C:\Users\KIAN\Desktop\Phase 3\Unit1.dfm=C:\Users\KIAN\Desktop\Phase 3\Connection_P.dfm</Transaction>
+    <Transaction>2018/10/10 11:32:19.172.pas,C:\Users\KIAN\Desktop\Phase 3\Unit1.pas=C:\Users\KIAN\Desktop\Phase 3\DM_U.pas</Transaction>
+    <Transaction>2018/10/10 11:32:19.172.dfm,C:\Users\KIAN\Desktop\Phase 3\Unit1.dfm=C:\Users\KIAN\Desktop\Phase 3\DM_U.dfm</Transaction>
+    <Transaction>2018/10/12 17:55:16.062.pas,C:\Users\KIAN\Desktop\Phase 3\Unit1.pas=C:\Users\KIAN\Desktop\Phase 3\AdminPage_U.pas</Transaction>
+    <Transaction>2018/10/12 17:55:16.062.dfm,C:\Users\KIAN\Desktop\Phase 3\Unit1.dfm=C:\Users\KIAN\Desktop\Phase 3\AdminPage_U.dfm</Transaction>
+    <Transaction>2018/10/14 18:28:31.099.pas,C:\Users\KIAN\Desktop\Phase 3\MainPage_U.pas=</Transaction>
+    <Transaction>2018/10/14 18:28:31.099.dfm,C:\Users\KIAN\Desktop\Phase 3\MainPage_U.dfm=</Transaction>
+    <Transaction>2018/10/14 18:30:17.685.pas,C:\Users\KIAN\Desktop\Phase 3\Unit1.pas=C:\Users\KIAN\Desktop\Phase 3\MainPage_U.pas</Transaction>
+    <Transaction>2018/10/14 18:30:17.685.dfm,C:\Users\KIAN\Desktop\Phase 3\Unit1.dfm=C:\Users\KIAN\Desktop\Phase 3\MainPage_U.dfm</Transaction>
+    <Transaction>2018/10/23 18:41:43.550.pas,C:\Users\KIAN\Desktop\PHASE 3 NEWW\Unit1.pas=C:\Users\KIAN\Desktop\PHASE 3 NEWW\Help_U.pas</Transaction>
+    <Transaction>2018/10/23 18:41:43.550.dfm,C:\Users\KIAN\Desktop\PHASE 3 NEWW\Unit1.dfm=C:\Users\KIAN\Desktop\PHASE 3 NEWW\Help_U.dfm</Transaction>
+    <Transaction>2019/07/13 14:16:14.250.pas,C:\Users\KIAN\Desktop\GRADE 12 PAT KIAN NAIDU\PHASE 2\Unit1.pas=C:\Users\KIAN\Desktop\GRADE 12 PAT KIAN NAIDU\PHASE 2\Validate_u.pas</Transaction>
+    <Transaction>2019/07/13 14:51:44.633.pas,C:\Users\KIAN\Desktop\GRADE 12 PAT KIAN NAIDU\PHASE 2\Unit1.pas=C:\Users\KIAN\Desktop\GRADE 12 PAT KIAN NAIDU\PHASE 2\clsValidate_u.pas</Transaction>
+    <Transaction>2019/07/13 15:12:38.468.pas,C:\Users\KIAN\Desktop\GRADE 12 PAT KIAN NAIDU\PHASE 2\clsValidate_u.pas=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Login_U.pas"/>
+    <File Path="Login_U.dfm"/>
+    <File Path="AdminPage_U.pas"/>
+    <File Path="AdminPage_U.dfm"/>
+    <File Path="Register_U.pas"/>
+    <File Path="Register_U.dfm"/>
+    <File Path="DM_U.pas"/>
+    <File Path="DM_U.dfm"/>
+    <File Path="MainPage_U.pas"/>
+    <File Path="MainPage_U.dfm"/>
+    <File Path="Help_U.pas"/>
+    <File Path="Help_U.dfm"/>
+    <File Path="Validate_u.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>

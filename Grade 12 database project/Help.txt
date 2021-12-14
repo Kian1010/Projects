@@ -1,0 +1,32 @@
+Welcome!
+This section is here to help you in any problem 
+that you may have run into while you have been
+on this bidding site. If you are still having
+a problem with placing a bid or thereof, you 
+can leave the site master/admin a message of 
+your choice on the button below. Thank you and 
+enjoy using QuickBid!
+#
+Try to register first then log into the system.
+If your passwords do not match then make sure 
+you do not have caps lock on as your passwords 
+are case sensitive. Ensure that your email 
+address is correct. Always ensure that your 
+password is not shorter than 4 characters long. 
+#
+If you get any error when placing bids, 
+ensure that:
+1. Only numbers are entered for the
+bid you will place
+2. Make sure the bidding number 
+matches the item you have chosen
+3. Ensure that you have selected an amount for 
+how many of items you want
+#
+If your item has not appeared when you have 
+searched then the item you are looking for
+is most likely already sold or not being put 
+up for sale. Try searching for a similar item 
+to the one you have been looking for and you 
+might just find it. 
+

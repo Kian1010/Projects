@@ -1,0 +1,4 @@
+Try to register first then log into the system.
+If your passwords do not match then make sure that you do not have caps lock on as your passwords are case sensitive. 
+Ensure that your email address is correct. 
+Always ensure that your password is not shorter than 4 characters long.

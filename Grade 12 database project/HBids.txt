@@ -1,0 +1,4 @@
+If you get any error when placing bids, ensure that:
+1. Only numbers are entered for the bid you will place
+2. Make sure the bidding number matches the item you have chosen
+3. Ensure that you have selected an amount for how many of items you want
